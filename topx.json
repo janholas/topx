@@ -1,0 +1,32 @@
+[
+    {
+        "date": "06.03.2023",
+        "articles": [
+            {
+                "name": "test1",
+                "url": "www.example.com",
+                "thumbnail": "https://vectormaker.co/artwork.svg"
+            },
+            {
+                "name": "test2",
+                "url": "www.example.com",
+                "thumbnail": "https://vectormaker.co/artwork.svg"
+            }
+        ]
+    },
+    {
+        "date": "06.03.2023",
+        "articles": [
+            {
+                "name": "test1",
+                "url": "www.example.com",
+                "thumbnail": "https://vectormaker.co/artwork.svg"
+            },
+            {
+                "name": "test2",
+                "url": "www.example.com",
+                "thumbnail": "https://vectormaker.co/artwork.svg"
+            }
+        ]
+    }
+]
